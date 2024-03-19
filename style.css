@@ -1,0 +1,25 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  h1{
+    color: #580dc9 ;
+  }
+  h2{
+    color: #a30f0f ;
+  }
+  li{
+    color: #9b0396 ;
+  }
+  dt{
+    background-color: #d66800; 
+  }
+  #thinhla{
+    text-align: center;
+    color: rgb(60, 234, 216);
+  }
+  #phuocla{
+    font-family: 'Franklin Gothic Medium','Arial Narrow','Arial',sans-serif;
+    text-align: center;
+    text-decoration: underline;
+  }
